@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mind Mesh</string>
+    <string name="action_settings">Settings</string>
+    <string name="play_button">Play</string>
+    <string name="options_button">Options</string>
+    <string name="exit_button">Exit</string>
+	<string name="level_select">Level Select</string>
+	<string name="pack">Pack</string>
+    <string name="logo_content_description ">The game logo of Word Whirl.</string>
+    <string name="package_actionbar_title">Pack Select</string>
+    <string name="eraseprogress">Erase MindMesh progress?</string>
+
+</resources>

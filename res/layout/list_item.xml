@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Single List Item Design -->
+<com.jl.mindmesh.widget.PackView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/label"
+    android:textIsSelectable="false"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="6dp"
+	android:gravity="center_vertical"
+    android:textSize="24sp"
+    android:textStyle="bold"
+	android:drawableLeft="@drawable/ic_launcher"
+	android:drawablePadding="30dp" >
+</com.jl.mindmesh.widget.PackView>
